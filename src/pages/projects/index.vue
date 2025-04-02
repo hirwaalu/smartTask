@@ -16,10 +16,10 @@ getGroupedCollabs(projects.value ?? [])
 const columnsWithCollabs = columns(groupedCollabs)
 
 useMeta({
-  title: 'Projects | Pulse',
+  title: 'Projects | SmartTask',
   description: {
     name: 'description',
-    content: 'See all projects in Pulse.'
+    content: 'See all projects in SmartTask.'
   }
 })
 </script>
